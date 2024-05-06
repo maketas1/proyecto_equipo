@@ -1,2 +1,4 @@
+#No se subeiran los .log
 *.log
+#Except
 !versiones.log
