@@ -1,0 +1,36 @@
+commit 15030d2dfb8c889274fa268ddf9cbbed6d6925c8
+Author: Ángel Gallardo <angelgallardoturpin@gmail.com>
+Date:   Mon May 6 10:00:04 2024 +0200
+
+    incluyendo capitulos
+
+commit a3eb4e820f2759d8137f3eba32c30c69d9a67278
+Merge: c65263b 6eb92df
+Author: Ángel Gallardo <angelgallardoturpin@gmail.com>
+Date:   Mon May 6 09:58:07 2024 +0200
+
+    Merge branch 'pruebas'
+
+commit 6eb92dfbdf00fb7cf717cbe9452d580250334faa
+Author: Ángel Gallardo <angelgallardoturpin@gmail.com>
+Date:   Mon May 6 09:55:28 2024 +0200
+
+    Añadiendo la pagina 2
+
+commit c65263bae78f2faff42d33088eca673d33dca8af
+Author: Ángel Gallardo <angelgallardoturpin@gmail.com>
+Date:   Mon May 6 09:53:15 2024 +0200
+
+    Añadiendo pagina1.html
+
+commit 4b590264ae2a0ea3e2329aa6606f2c497551435f
+Author: Ángel Gallardo <angelgallardoturpin@gmail.com>
+Date:   Mon May 6 09:32:07 2024 +0200
+
+    incluyendo el index
+
+commit 64265c434a18da26e1a6e9138eadc86eaeace852
+Author: Ángel Gallardo <angelgallardoturpin@gmail.com>
+Date:   Mon May 6 09:29:18 2024 +0200
+
+    Primer commit
